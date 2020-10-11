@@ -6,13 +6,13 @@
     scroll-behavior: smooth;
     overflow: hidden;
     background-color: #1f2833;
-    color: #66fcf1;
+    color: #5656da;
   }
   nav {
-    background-color: #45a29e;
+    background-color: #5656da;
   }
   .dropdown-menu {
-    background-color: #66fcf1;
+    background-color: #5656da;
   }
   .btn-search {
     background-color: #0b0c10;
@@ -37,7 +37,7 @@
   }
   .fa {
     text-align: center;
-    color: #66fcf1;
+    color: #5656da;
   }
   .arrow {
     text-align: center;
@@ -69,13 +69,13 @@
     font-size: 10vw;
     font-weight: bolder;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: #66fcf1;
+    color: #5656da;
   }
   h2 {
     margin-top: 2%;
     font-size: 5vw;
     font-family: 'Felipa', cursive;
-    color: #45a29e;
+    color: #5656da;
   }
   
   a {
@@ -87,21 +87,21 @@
   }
   
   .modalcard {
-    background-color: #66fcf1;
+    background-color: #5656da;
     color: #c5c6c7;
     padding: 3%;
     border: none;
   }
   h3 {
-    color: #45a29e;
+    color: #5656da;
     font-family: 'Felipa', cursive;
   }
   #locations {
-    color: #45a29e;
+    color: #5656da;
     font-family: 'Felipa', cursive;
   }
   hr {
-    background: #66fcf1;
+    background: #5656da;
     height: 2px;
   }
   #imageheader {
