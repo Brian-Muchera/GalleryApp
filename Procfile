@@ -1,4 +1,1 @@
-release: python manage.py makemigrations
-release: python manage.py migrate
-
-web: gunicorn gallery.wsgi
+web: gunicorn your_project_name.wsgi --log-file -
