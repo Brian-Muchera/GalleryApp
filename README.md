@@ -10,8 +10,8 @@ This is a Django application for personal gallery that allows a user to upload i
 
 ###### Categories
 
-- Art
-- Games
+- Entertainment
+- Nature
 - Food
 
 ## User Story  
