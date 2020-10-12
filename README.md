@@ -29,7 +29,7 @@ To get the project .......
 ##### Cloning the repository:
 
 ```bash
-https://github.com/Brian-Muchera/galleryApp.git
+https://github.com/Brian-Muchera/GalleryApp.git
 ```
 
 ##### Navigate into the folder and install requirements
