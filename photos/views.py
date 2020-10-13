@@ -7,7 +7,7 @@ def index(request):
     images = Image.objects.all()
     locations = Location.get_locations()
     categorys = Category.get_category()
-    print(locations)
+    #print(locations)
     print(categorys)
     return render(request, 'index.html', {'images': images[::-1], 'locations': locations, 'categorys': categorys})
 
